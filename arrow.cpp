@@ -41,6 +41,7 @@ bool Arrow::update(float dt) {
 		}
 	}
 
+	// Comentario de prueba
 
 	return true;
 }
